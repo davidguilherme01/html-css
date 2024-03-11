@@ -1,0 +1,14 @@
+
+body {
+    background-image : url(Imagens/fundo3.avif);
+    background-size: cover;
+    background-repeat:no-repeat ;
+         
+} 
+div{
+text-align: center;
+
+}
+ ul{ list-style-type: circle
+    
+ }
